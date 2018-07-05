@@ -1,5 +1,4 @@
 hello world
-by bala.
-you
-are
+by bala.@@@@
+you@@are
 welcome.
