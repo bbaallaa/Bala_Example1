@@ -1,0 +1,2 @@
+Hi this is the file created in the git.
+and the actio i need to perform here is that i should going to get this in my local.
