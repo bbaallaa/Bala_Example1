@@ -1,0 +1,1 @@
+Haii this is the first file which is going to be run from the CLI of GIR bash.
